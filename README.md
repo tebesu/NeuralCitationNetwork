@@ -1,9 +1,7 @@
 # Neural Citation Network
 Source code for SIGIR 17 paper:
 
-Travis Ebesu, Yi Fang. Neural Citation Network for Context-Aware Citation Recommendation. In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2017.
-
-[PDF](http://www.cse.scu.edu/~yfang/NCN.pdf)
+Travis Ebesu, Yi Fang. Neural Citation Network for Context-Aware Citation Recommendation. In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2017. [PDF](http://www.cse.scu.edu/~yfang/NCN.pdf)
 
 
 # Dataset:
@@ -19,4 +17,4 @@ I used trec_eval for evaluating the results.
 Note this requires TensorFlow r0.11
 
 
-Please open a pull request if you have any questions/problems.
+Please open a issue if you have any questions/problems I will try my best to assist you.
