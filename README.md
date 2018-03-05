@@ -11,7 +11,8 @@ https://psu.app.box.com/v/refseer
 
 Preprocess the dataset according to the readme then remove the citations, math notation and lemmatize tokens. Take the top 20K vocabulary for the encoder citation contexts, 20K vocab for the decoder and 20K authors. The authors were determined by simple heuristic of first initial and last name. Once the data is formatted you may need to do a little changing to the code to feed in your data. 
 
-The preprocessed dataset can be found here:
+The preprocessed dataset can be found here: (Sorry right now my University has restrictions on links, please send me a invite request from the link below. I will find a different host)
+
 https://drive.google.com/open?id=10tdKRxsq7v9-HdjUaFeqmrojKz6gpvcw
 
 
